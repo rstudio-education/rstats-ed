@@ -1,6 +1,6 @@
 # rstats-ed
 
-Inspired by the [Using Julia in the classroom](https://julialang.org/teaching/) page and suggestion by [@Peter_Griffin](https://community.rstudio.com/u/peter_griffin)'s [post](https://community.rstudio.com/t/big-data-with-microsoft-open-r/13183/18?u=mine) on RStudio Community.
+Inspired by the [Using Julia in the classroom](https://julialang.org/teaching/) page and suggestion by [@Peter_Griffin](https://community.rstudio.com/u/peter_griffin)'s [post](https://community.rstudio.com/t/big-data-with-microsoft-open-r/13183/18?u=mine) on RStudio Community as well as the [Learn the tidyverse](https://www.tidyverse.org/learn/) page.
 
 This is a user curated list and is bound to be non-comprehensive at all times. If you have suggestions for courses to add, please submit a pull request or add an issue.
 
