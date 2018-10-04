@@ -4,11 +4,15 @@ Inspired by the [Using Julia in the classroom](https://julialang.org/teaching/) 
 
 This is a user curated list and is bound to be non-comprehensive at all times. If you have suggestions for courses to add, please submit a pull request or add an issue.
 
-## MOOCs teaching R
+## Online courses
+
+### MOOCs
 
 - [Statistics with R](https://www.coursera.org/specializations/statistics) Coursera Specialization; Mine Çetinkaya-Rundel, Merlise Clyde, Colin Rundel, David Banks. 5 courses: Introduction to Data and Probability, Inferential Statistics, Linear Regression and Modeling, Bayesian Statistics, and Capstone.
 
-## Other courses teaching R
+### Other learning resources
+
+- [RStudio Cloud Primers](https://rstudio.cloud/learn/primers) RStudio Cloud is a free, cloud based version of the RStudio IDE. Packaged within RStudio Cloud are primers, which are collections of interactive tutorials made with learnr. These primers teach the basics of R and the Tidyverse.
 
 - [DataCamp's R offerings](https://www.datacamp.com/courses/tech:r): DataCamp offers interactive R (and Python, Sheets, SQL, and shell) courses on topics in data science, statistics and machine learning following a "learn by doing" philosophy. Courses run interactively in the browser.
 
