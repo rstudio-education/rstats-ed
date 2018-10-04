@@ -23,6 +23,8 @@ This is a user curated list and is bound to be non-comprehensive at all times. I
 
 - [DataCamp's R offerings](https://www.datacamp.com/courses/tech:r): DataCamp offers interactive R (and Python, Sheets, SQL, and shell) courses on topics in data science, statistics and machine learning following a "learn by doing" philosophy. Courses run interactively in the browser.
 
+- [LinkedIn Learning offerings](https://www.linkedin.com/learning/topics/r?contentBy=LINKEDIN_LEARNING&entityType=COURSE&software=R~RStudio&sortBy=RECENCY&trk=insiders_215756_learning): LinkedIn Learning (previously lynda.com) offers beginner, intermediate, and advanced courses in R, as well as Python, SQL, Java, C, PHP, Javascript and other languages. All courses are offered as downloadable video content and are used in many universities.
+
 ## University courses teaching R
 
 ### 2018
