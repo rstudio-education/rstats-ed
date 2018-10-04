@@ -8,11 +8,16 @@ This is a user curated list and is bound to be non-comprehensive at all times. I
 
 ### MOOCs
 
-- [Statistics with R](https://www.coursera.org/specializations/statistics) Coursera Specialization; Mine Çetinkaya-Rundel, Merlise Clyde, Colin Rundel, David Banks. 5 courses: Introduction to Data and Probability, Inferential Statistics, Linear Regression and Modeling, Bayesian Statistics, and Capstone.
+- [Statistics with R](https://www.coursera.org/specializations/statistics) Coursera Specialization: Mine Çetinkaya-Rundel, Merlise Clyde, Colin Rundel, David Banks. 5 courses: Introduction to Data and Probability, Inferential Statistics, Linear Regression and Modeling, Bayesian Statistics, and Capstone.
+
+- [JHU Data Science](https://www.coursera.org/specializations/jhu-data-science) Coursera Specialization: This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using real-world data. 
+
+- [Chromebook Data Science](http://jhudatascience.org/chromebookdatascience/): Chromebook Data Science (CBDS) is a free, massive open online educational program offered through Leanpub to help anyone who can read, write, and use a computer to move into data science.
+
 
 ### Other learning resources
 
-- [RStudio Cloud Primers](https://rstudio.cloud/learn/primers) RStudio Cloud is a free, cloud based version of the RStudio IDE. Packaged within RStudio Cloud are primers, which are collections of interactive tutorials made with learnr. These primers teach the basics of R and the Tidyverse.
+- [RStudio Cloud Primers](https://rstudio.cloud/learn/primers): RStudio Cloud is a free, cloud based version of the RStudio IDE. Packaged within RStudio Cloud are primers, which are collections of interactive tutorials made with learnr. These primers teach the basics of R and the Tidyverse.
 
 - [DataCamp's R offerings](https://www.datacamp.com/courses/tech:r): DataCamp offers interactive R (and Python, Sheets, SQL, and shell) courses on topics in data science, statistics and machine learning following a "learn by doing" philosophy. Courses run interactively in the browser.
 
