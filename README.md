@@ -25,6 +25,8 @@ This is a user curated list and is bound to be non-comprehensive at all times. I
 
 - [LinkedIn Learning offerings](https://www.linkedin.com/learning/topics/r?contentBy=LINKEDIN_LEARNING&entityType=COURSE&software=R~RStudio&sortBy=RECENCY&trk=insiders_215756_learning): LinkedIn Learning (previously lynda.com) offers beginner, intermediate, and advanced courses in R, as well as Python, SQL, Java, C, PHP, Javascript and other languages. All courses are offered as downloadable video content and are used in many universities.
 
+- **The Carpentries**: [Software Carpentry](https://software-carpentry.org/lessons/) offers workshops are domain-agnostic, and teach the Unix shell, coding in R or Python, and version control using Git. [Data Carpentry](https://datacarpentry.org/lessons/) workshops are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
+
 ## University courses teaching R
 
 ### 2018
