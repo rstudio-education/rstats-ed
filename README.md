@@ -44,6 +44,9 @@ These are workshops, short courses, or modules taught fully, or for the most par
 
 - [A Jupyter + R ( + mybinder.org) tutorial for social scientists](https://github.com/InfantLab/NotebookDemos) - Goldsmiths, University of London, [Caspar Addyman](https://github.com/InfantLab/) - A self taught or one session class taught to our Masters Level Advanced Methods class. Using an online notebook shared using MyBinder, it goes through basics of editing code and markdown in Jupyter notebooks, how to host these on MyBinder with fixed date snapshots for reproducibility. It provides very simple examples of loading local or remote data files, filtering and graphing with tidyverse and running simple statistical tests using ezANOVA.
 
+- [Introduction to R for household survey](https://github.com/DiegoKoz/Curso_R_EPH) - INDEC institute; [Diego Kozlowski](https://github.com/DiegoKoz/), Guido Weksler and Natsumi Shokida. An introductory course to R and the Households survey made by de National Institute of Statistics and Censuses from Argentina. The objective is to introduce R base, the Tidyverse, and Markdown, for beening able to reproduce the mains statistics of the labor market and poverty measures. Is oriented to people coming from a background of social science, who needs to wrangle with microdata from the survey. The Course is in __spanish__
+
+
 ## Online courses
 
 ### MOOCs
@@ -67,5 +70,5 @@ Built with [learnr](https://rstudio.github.io/learnr/) or a similar technology.
 ### Other online courses
 
 - [LinkedIn Learning offerings](https://www.linkedin.com/learning/topics/r?contentBy=LINKEDIN_LEARNING&entityType=COURSE&software=R~RStudio&sortBy=RECENCY&trk=insiders_215756_learning): LinkedIn Learning (previously lynda.com) offers beginner, intermediate, and advanced courses in R, as well as Python, SQL, Java, C, PHP, Javascript and other languages. All courses are offered as downloadable video content and are used in many universities.
-
 - [DataCamp's R offerings](https://www.datacamp.com/courses/tech:r): DataCamp offers interactive R (and Python, Sheets, SQL, and shell) courses on topics in data science, statistics and machine learning following a "learn by doing" philosophy. Courses run interactively in the browser.
+
