@@ -54,3 +54,7 @@ This is a user curated list and is bound to be non-comprehensive at all times. I
 ### 2017
 
 - [Modeling Social Data](http://modelingsocialdata.org/syllabus) - Columbia University, [Jake Hofman](http://jakehofman.com). One semester class for upper division undergraduate and first year graduate students that focuses on data-driven modeling for large-scale, social data. Material draws on statistics, computer science, and the social sciences. R is the primary language taught for the course, students gain experience collecting, cleaning, analyzing, and modeling with the tidyverse and related tools. All slides, code, and student-scribed notes are [available](http://modelingsocialdata.org/syllabus) on Github. Students complete a final project in small groups where work on an original research problem of their choice.
+
+## Short courses
+
+- [Introduction to R for household survey](https://github.com/DiegoKoz/Curso_R_EPH) - INDEC institute; [Diego Kozlowski](https://github.com/DiegoKoz/), Guido Weksler and Natsumi Shokida. An introductory course to R and the Households survey made by de National Institute of Statistics and Censuses from Argentina. The objective is to introduce R base, the Tidyverse, and Markdown, for beening able to reproduce the mains statistics of the labor market and poverty measures. Is oriented to people coming from a background of social science, who needs to wrangle with microdata from the survey. The Course is in __spanish__
