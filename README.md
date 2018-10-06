@@ -48,6 +48,8 @@ These are workshops, short courses, or modules taught fully, or for the most par
 
 - [Introduction to R for household survey](https://github.com/DiegoKoz/Curso_R_EPH) - INDEC institute; [Diego Kozlowski](https://github.com/DiegoKoz/), Guido Weksler and Natsumi Shokida. An introductory course to R and the Households survey made by de National Institute of Statistics and Censuses from Argentina. The objective is to introduce R base, the Tidyverse, and Markdown, for beening able to reproduce the mains statistics of the labor market and poverty measures. Is oriented to people coming from a background of social science, who needs to wrangle with microdata from the survey. The Course is in __spanish__
 
+- [Reproducible analysis of bigger, naturally-occurring datasets using R, Rmarkdown, and the tidyverse](https://github.com/mcfrank/tidyverse-tutorial) - [Michael C. Frank](https://github.com/mcfrank/). A workshop originally presented at [Data on the Mind 2017](https://github.com/Data-on-the-Mind), this tutorial is an introduction to analyzing datasets using Tidyverse code (including readr, dplyr, tidyr, and shiny). Oriented towards researchers in psychology, cognitive science, or experimental science who may be interested in learning more about how R is a "powerful tool for statistical data analysis and reproducible research."
+
 
 ## Online courses
 
