@@ -54,6 +54,8 @@ These are workshops, short courses, or modules taught fully, or for the most par
 
 - [Data Science Seminar](https://slu-dss.github.io) - - Saint Louis University, led by [Chris Prener](https://github.com/chris-prener) and [Christy Garcia](https://github.com/cking826). We offer a series of seminars each semester on using `R` for a variety of tasks, including conducting reproducible research, cleaning and plotting data, making maps, and fitting linear models. Our content is available on GitHub and a full list of our seminars is available on our website.
 
+- [Reproducible analysis of bigger, naturally-occurring datasets using R, Rmarkdown, and the tidyverse](https://github.com/mcfrank/tidyverse-tutorial) - [Michael C. Frank](https://github.com/mcfrank/). A workshop originally presented at [Data on the Mind 2017](https://github.com/Data-on-the-Mind), this tutorial is an introduction to analyzing datasets using Tidyverse code (including readr, dplyr, tidyr, and shiny). Oriented towards researchers in psychology, cognitive science, or experimental science who may be interested in learning more about how R is a "powerful tool for statistical data analysis and reproducible research."
+
 ## Online courses
 
 ### MOOCs
