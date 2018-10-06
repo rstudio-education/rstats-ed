@@ -62,6 +62,8 @@ Built with [learnr](https://rstudio.github.io/learnr/) or a similar technology.
 
 - [RStudio Cloud Primers](https://rstudio.cloud/learn/primers): RStudio Cloud is a free, cloud based version of the RStudio IDE. Packaged within RStudio Cloud are primers, which are collections of interactive tutorials made with learnr. These primers teach the basics of R and the Tidyverse.
 
+- [To R from Stata: An Introduction](https://rslbliss.shinyapps.io/R_from_Stata/): The purpose of this tutorial is to provide a relatively light introduction to R for Stata users - straight to the point (mostly), and organized around the things that Stata users already know.
+
 ### Other online courses
 
 - [LinkedIn Learning offerings](https://www.linkedin.com/learning/topics/r?contentBy=LINKEDIN_LEARNING&entityType=COURSE&software=R~RStudio&sortBy=RECENCY&trk=insiders_215756_learning): LinkedIn Learning (previously lynda.com) offers beginner, intermediate, and advanced courses in R, as well as Python, SQL, Java, C, PHP, Javascript and other languages. All courses are offered as downloadable video content and are used in many universities.
