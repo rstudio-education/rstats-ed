@@ -84,7 +84,12 @@ Built with [learnr](https://rstudio.github.io/learnr/) or a similar technology.
 
 - [To R from Stata: An Introduction](https://rslbliss.shinyapps.io/R_from_Stata/): The purpose of this tutorial is to provide a relatively light introduction to R for Stata users - straight to the point (mostly), and organized around the things that Stata users already know.
 
+- [SwirlStats](https://swirlstats.com/): Built with learnr, swirl is an R package that enables new useRs to learn R programming and data science interactively in their RStudio consoles.
+
+- [UCI Data Science Initiative Tutorials](https://github.com/UCIDataScienceInitiative): The UCI Data Science Initiative has written tutorials on data analysis and visualization with R at both introductory and advanced levels. In addition to their R tutorials, the Initiative also has introductory tutorials on scientific computing and natural language processing with Python and Julia.
+
 ### Other online courses
 
 - [LinkedIn Learning offerings](https://www.linkedin.com/learning/topics/r?contentBy=LINKEDIN_LEARNING&entityType=COURSE&software=R~RStudio&sortBy=RECENCY&trk=insiders_215756_learning): LinkedIn Learning (previously lynda.com) offers beginner, intermediate, and advanced courses in R, as well as Python, SQL, Java, C, PHP, Javascript and other languages. All courses are offered as downloadable video content and are used in many universities.
+
 - [DataCamp's R offerings](https://www.datacamp.com/courses/tech:r): DataCamp offers interactive R (and Python, Sheets, SQL, and shell) courses on topics in data science, statistics and machine learning following a "learn by doing" philosophy. Courses run interactively in the browser.
