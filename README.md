@@ -66,6 +66,8 @@ These are workshops, short courses, or modules taught fully, or for the most par
 
 - [Reproducible analysis of bigger, naturally-occurring datasets using R, Rmarkdown, and the tidyverse](https://github.com/mcfrank/tidyverse-tutorial) - [Michael C. Frank](https://github.com/mcfrank/). A workshop originally presented at [Data on the Mind 2017](https://github.com/Data-on-the-Mind), this tutorial is an introduction to analyzing datasets using Tidyverse code (including readr, dplyr, tidyr, and shiny). Oriented towards researchers in psychology, cognitive science, or experimental science who may be interested in learning more about how R is a "powerful tool for statistical data analysis and reproducible research."
 
+- [FAIR-R](https://tibhannover.github.io/FAIR-R/): A fork of [Software Carpentry's "Programming wiht R" lesson](https://swcarpentry.github.io/r-novice-inflammation/) that suggests one possible translation of the EU's FAIR Data Principles into the R programming realm. Presented [@TIBHannover](https://github.com/TIBHannover/)'s ["FAIR Data and Software" workshop](https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/).
+
 ## Online courses
 
 ### MOOCs
