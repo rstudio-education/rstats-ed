@@ -12,6 +12,13 @@ This is a user curated list and is bound to be non-comprehensive at all times. I
 
 These are semester/quarter long courses taught fully, or for the most part, in an in person setting.
 
+#### 2019
+
+- [Modeling Criminological Data](https://jjmedinaariza.github.io/modelling_book/) University of Manchester 2nd year undergraduate course introducing students to inferential statistics using R & R Studio. Created by [Juanjo Medina](https://www.research.manchester.ac.uk/portal/juanjo.medina.html) and [Reka Solymosi](rekadata.site). There is also a Graduate version (Masters level) couse along the same lines called [R for Criminologists](http://jjmedinaariza.github.io/R-for-Criminologists/). 
+
+- [Crime Mapping in R](https://maczokni.github.io/crimemapping_textbook_bookdown/) Elective course at the University of Manchester available to final year Undergraduate students as well as Postgraduate Taugh students (Masters) created by [Reka Solymosi](rekadata.site) and [Juanjo Medina](https://www.research.manchester.ac.uk/portal/juanjo.medina.html). The course introduces students to spatial crime analysis, includes visualising and analysing spatial data. 
+
+
 #### 2018
 
 - [R-DAVIS - R-Data Analysis & Visualization In Science](https://gge-ucd.github.io/R-DAVIS/index.html) - University of California, Davis; *Grad Student Taught, Graduate Group in Ecology*. This course content integrates and builds on Data Carpentry Ecology lessons, and is taught as part of required curriculum for graduate students in the Graduate Group in Ecology (GGE) at the UC Davis. This course provides an introduction to tidy data, project management, data manipulation, visualization and analysis, across a broad set of ecological data. We also teach Git and Github along with RStudio. The focus of this course is to provide graduate students with training that develops and teaches the tools applicable to the entire process of reproducible data-driven research and encourage the use of open-source tools. By learning how to get the computer to do your work for you, you will be able to do more science faster, and your future-self will thank you. All lectures are recorded/posted on Youtube and the content is online.
@@ -76,6 +83,9 @@ These are workshops, short courses, or modules taught fully, or for the most par
 - [Reproducible analysis of bigger, naturally-occurring datasets using R, Rmarkdown, and the tidyverse](https://github.com/mcfrank/tidyverse-tutorial) - [Michael C. Frank](https://github.com/mcfrank/). A workshop originally presented at [Data on the Mind 2017](https://github.com/Data-on-the-Mind), this tutorial is an introduction to analyzing datasets using Tidyverse code (including readr, dplyr, tidyr, and shiny). Oriented towards researchers in psychology, cognitive science, or experimental science who may be interested in learning more about how R is a "powerful tool for statistical data analysis and reproducible research."
 
 - [FAIR-R](https://tibhannover.github.io/FAIR-R/): A fork of [Software Carpentry's "Programming wiht R" lesson](https://swcarpentry.github.io/r-novice-inflammation/) that suggests one possible translation of the EU's FAIR Data Principles into the R programming realm. Presented [@TIBHannover](https://github.com/TIBHannover/)'s ["FAIR Data and Software" workshop](https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/).
+
+- [Getting started with R](https://rcatlord.github.io/GSinR/) A weeklong intensive course introducing students to R and the tidyverse run as part of the Unviersity of Manchester's [methods@manchester](https://www.methods.manchester.ac.uk/) summer school. Developed by Henry Partridge and [Reka Solymosi](rekadata.site), with further contributions from [Sam Langton](https://www2.mmu.ac.uk/crime-and-policing/academic-network/crime-and-well-being-big-data-network/profile/index.php?id=3969). 
+
 
 ## Online courses
 
