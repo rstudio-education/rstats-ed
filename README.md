@@ -12,6 +12,10 @@ This is a user curated list and is bound to be non-comprehensive at all times. I
 
 These are semester/quarter long courses taught fully, or for the most part, in an in person setting.
 
+#### 2020
+
+2020 courses go here...
+
 #### 2019
 
 - [Introduction to Data Science](http://introds.org/) University of Edinburgh Year 1 undergraduate course for students with no background in stats, computing, or data science. Combines techniques from statistics, math, computer science, and social sciences, to learn how to use data to understand natural phenomena, explore patterns, model outcomes, and make predictions. Data wrangling, exploratory data analysis, predictive modeling, data visualization, and effective communication of results. Focuses on tidyverse. Discussions around reproducibility, data sharing, data privacy.
