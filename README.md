@@ -14,7 +14,7 @@ These are semester/quarter long courses taught fully, or for the most part, in a
 
 #### 2020
 
-2020 courses go here...
+- [Data Science in R: A Robust Toolkit For Psychological Research](https://djnavarro.link/robust-tools/), by [Danielle Navarro](https://github.com/djnavarro). An introductory class offered at the University of New South Wales, aimed at students with little to no background in statistics or computing. Practical scientific topics covered include data visualisation, data wrangling, document preparation with R markdown, sharing code with GitHub and project management. The programming side to the class covers data structures in R, flow control and programming with functions. For fun, there are also sections on creating generative art in R.
 
 #### 2019
 
